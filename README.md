@@ -28,7 +28,6 @@ Provides filtering and detailed views via REST APIs.
 | ORM           | JPA (Hibernate)               |
 | Build Tool    | Maven                         |
 | Logging       | SLF4J + Logback               |
-| Testing       | JUnit 5                       |
 | Tooling       | IntelliJ IDEA / VS Code       |
 | API Docs      | Swagger (can be added)        |
 
